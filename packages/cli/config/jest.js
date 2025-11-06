@@ -123,6 +123,7 @@ const projectConfigKeys = [
 
 const transformIgnorePattern = [
   '@material-ui',
+  '@octokit',
   'ajv',
   'core-js',
   'jest-.*',
